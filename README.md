@@ -1,4 +1,4 @@
-### Hi there 👋
+### This is the official Cy's Junk GitHub account. Stay tuned!
 
 <!--
 **cysjunk/cysjunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
